@@ -1,2 +1,3 @@
-# Ola Mundo
- teste de versionamento
+# Olá, Mundo!
+ teste de versionamento, primeiro repositório em git.
+ 
